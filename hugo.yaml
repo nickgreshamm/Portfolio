@@ -106,7 +106,7 @@ params:
       enable: true
     roundImage: false # Make hero image circular | default false
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "/NicholasGresham_CV.pdf"
       download: true
