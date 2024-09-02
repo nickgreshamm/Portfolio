@@ -234,7 +234,7 @@ params:
         image: ./images/projects/render-with-xtalpha.png
         featured:
           name: More Information
-          link: /project/solar-array-project
+          link: /project/solar-array-project/index.html
         badges:
         - "Solar Energy"
         - "Electrical Design"
