@@ -26,7 +26,7 @@ params:
   title: "Nick Gresham portfolio"
   description: Portfolio website for Nick Gresham
   staticPath: "."  # The path to serve the static files from
-  favicon: "/ng.png"
+  favicon: "ng.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -101,7 +101,7 @@ params:
     title: "Nick."
     subtitle: "I am a mechanical engineer"
     content: "A passionate mechanical engineer with minors in electrical engineering and industrial design."
-    image: /images/projects/profile-picture.jpg
+    image: images/projects/profile-picture.jpg
     bottomImage:
       enable: true
     roundImage: false # Make hero image circular | default false
@@ -231,7 +231,7 @@ params:
     items:
       - title: Solar Array
         content: Improving the design of a first to market, highly portable solar array from 14kW to 22kW. 
-        image: /images/projects/render-with-xtalpha.png
+        image: images/projects/render-with-xtalpha.png
         featured:
           name: More Information
           link: /project/solar-array-project
@@ -246,7 +246,7 @@ params:
 
       - title: Iron Flow Battery
         content: My thesis project which developed a novel flow battery for use in the Australian market.
-        image: /images/projects/esi-cover.png
+        image: images/projects/esi-cover.png
         featured:
           name: More Information
           link: /project/iron-flow-battery
@@ -261,7 +261,7 @@ params:
 
       - title: Battery Commissioning
         content: Testing and commissioning of 12 metre long 500kWh Iron Flow Batteries, for the largest installation of IFBs in the world.
-        image: /images/projects/feith.jpg
+        image: images/projects/feith.jpg
         featured:
           name: More Information 
           link: /project/battery-commissioning
