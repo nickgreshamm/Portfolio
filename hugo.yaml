@@ -147,7 +147,7 @@ params:
         featuredLink:
           enable: false
           name: "View the project"
-          url: /project/solar-array-project
+          url: /project/solar-array-project/index.html
         content: "I began working at XCEL Tech during my final semester of university. At XCEL Tech, I was involved in several key projects for both clients and the company. My primary focus was leading the design of a first-to-market mobile 22kW solar array, developed to pair with XCEL's xt-alpha energy storage solution.
 
 <p> My key achievements at Xcel Tech Include:</p>
