@@ -108,7 +108,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/project/NicholasGresham_CV.pdf"
+      url: "/NicholasGresham_CV.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -276,7 +276,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
     btnLink: mailto:ngresh267@gmail.com
     # formspree:
