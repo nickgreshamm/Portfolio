@@ -25,7 +25,7 @@ markup:
 params:
   title: "Nick Gresham portfolio"
   description: Portfolio website for Nick Gresham
-  staticPath: "https://nickgreshamm.github.io"  # The path to serve the static files from
+  staticPath: "."  # The path to serve the static files from
   favicon: "/ng.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
