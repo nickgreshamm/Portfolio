@@ -249,7 +249,7 @@ params:
         image: ./images/projects/esi-cover.png
         featured:
           name: More Information
-          link: /project/iron-flow-battery
+          link: /project/iron-flow-battery/index.html
         badges:
           - "Advanced Manufacturing"
           - "Innovation"
@@ -259,14 +259,14 @@ params:
           - "Rapid Prototyping"
 
 
-      - title: Battery Commissioning
-        content: Testing and commissioning of 12 metre long 500kWh Iron Flow Batteries, for the largest installation of IFBs in the world.
-        image: ./images/projects/feith.jpg
+      - title: "Battery Commissioning"
+        content: "Testing and commissioning of 12 metre long 500kWh Iron Flow Batteries, for the largest installation of IFBs in the world."
+        image: "./images/projects/feith.jpg"
         featured:
-          name: More Information 
-          link: /project/battery-commissioning
+          name: "More Information"
+          link: "/project/battery-commissioning/index.html"
         badges:
-          - "Prototype testing"
+          - "Prototype Testing"
           - "Stakeholder Engagement"
           - "Data Analysis"
           - "Electrochemical Engineering"
