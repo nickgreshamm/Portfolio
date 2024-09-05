@@ -230,7 +230,7 @@ params:
     #title: "Custom Name"
     items:
       - title: Solar Array
-        content: Improving the design of a first to market, highly portable solar array from 14kW to 22kW. 
+        content: Innovative 22kW Deployable Solar Array A compact, self-contained energy solution designed for seamless deployment and reliable off-grid power, without the need for heavy machinery.
         image: ./images/projects/render-with-xtalpha.png
         featured:
           #name: More Information
